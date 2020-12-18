@@ -1,4 +1,4 @@
-# ajinkyajawale14.github.io
+# ajcs.github.io
 Ajinkya Jawale Portofolio Website
 
 Check out my portofolio website
