@@ -1,3 +1,3 @@
-# ajcs.github.io
+# Welcome to my portfolio website
 Ajinkya Jawale Portofolio Website-
-https://ajcs.github.io/
+https://ajinkyajawale14.github.io/Ajinkya_Jawale-portfolio/
